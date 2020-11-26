@@ -23,21 +23,11 @@ mh_distance <- function() {
 ## Task 2
 
 <i>
-Be sure to remove chunk option `eval=FALSE` in the below code chunks
+Be sure to remove chunk fdsfdf option `eval=FALSE` in the below code chunks
 once you create `mh_distance()`. Do not include this italicized
-text in your final submission.
+text in your final submission.g
 </i>
-
-**Initial test cases** (return non-negative modified Hamming distance)
-
-```{r eval=FALSE}
-mh_distance(x = "abc", y = "abc")
-mh_distance(x = T, y = FALSE)
-mh_distance(x = "523890", y = "752839")
-mh_distance(x = 2341, y = 2350)
-```
-
-Added test cases that return a non-negative modified Hamming distance result.
+ied Hamming distance result.
 
 ```{r}
 # additional test cases go here
