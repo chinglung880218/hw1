@@ -35,12 +35,6 @@ ied Hamming distance result.
 
 **Initial test cases** (return values of `-1`)
 
-```{r eval=FALSE}
-mh_distance(x = 52, y = 113)
-mh_distance(x = "swimming", y = "winning")
-mh_distance(x = NA, y = TRUE)
-mh_distance(x = 1.5, y = 2.5)
-```
 
 Added test cases that return a value of `-1`.
 
